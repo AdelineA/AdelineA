@@ -8,4 +8,6 @@
 - 💬 Ask me about JavaScript, Typescript, React, Next.js, NestJs,Node.js.
 - 😄 Pronouns: She / Her.
 - ⚡ Fun fact: I love people.
+- Let's connect [LinkedIn](https://www.linkedin.com/in/adeline-ayinkamiye-6855a120b/)
+
   
